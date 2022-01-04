@@ -14,14 +14,6 @@
 			</script>
 		".$conn->error();
 	 }
-		// else{
-	// 	echo " 
-	// 		<script>
-	// 			alert('Connected to the database Successfully');
-	// 		</script>
-
-	// 	";
-
-	// }
+		
 
 ?>

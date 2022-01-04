@@ -16,12 +16,6 @@
 				";
 
 				echo $conn->error();
-			}else{
-				echo "
-					<script>
-						alert('Connected Successully');
-					</script>
-				";
 			}
 
 ?>
